@@ -67,7 +67,7 @@
 
 * [交大转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [选课原则与选课技巧](sheng-cun-ji-qiao/untitled/README.md)
-  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiun.md)
+  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiu.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
   * [广占坑，占好坑](sheng-cun-ji-qiao/untitled/guang-zhan-keng-zhan-hao-keng.md)
 * [突击备考](sheng-cun-ji-qiao/tu-ji-bei-kao/README.md)
